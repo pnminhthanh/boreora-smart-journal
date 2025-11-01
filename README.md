@@ -48,7 +48,7 @@ src/
 
 ### Prerequisites
 
-- Node.js 18+
+- Node.js 22+
 - npm, yarn, pnpm, or bun
 
 ### Installation

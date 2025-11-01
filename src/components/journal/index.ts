@@ -1,0 +1,2 @@
+// Journal-specific components
+export {};
